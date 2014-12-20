@@ -1,0 +1,6392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bsi SYSTEM "bhavans.dtd">
+
+<bhavans>
+	<volume vnum="016">
+		<issue inum="01" date="10" month="08" year="1969" cover="Shree Saraswati the Goddess of Learning">
+			<entry>
+				<title num="">Prayer to Mother Sharada</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0021-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="446">How Faith Came to Me &#8212; VI. The Power and Limitations of ``Apport"</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0025-0031</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kulapati's Message</title>
+				<feature>Kulapati's Message</feature>
+				<series></series>
+				<page>0029-0029</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Let us Pledge Anew : Let us live the Gospel</title>
+				<feature></feature>
+				<series></series>
+				<page>0032c-0037</page>
+				<allauthors>
+					<author>Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ninefeld Ways of Bhakti &#8212; Adhyatma Ramayana</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0038</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">What Makes for Blessedness</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0040</page>
+				<allauthors>
+					<author>Bhagavatpada, Sri Sankara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Prapatti</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0041</page>
+				<allauthors>
+					<author>Ramanujacharya, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Hari Stuti</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0043</page>
+				<allauthors>
+					<author>Madhvacharya, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Panchasloki</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0045</page>
+				<allauthors>
+					<author>Vallabhacharya, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Homage to the Seers</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0051</page>
+				<allauthors>
+					<author>Sringeri, H. H. Jagadguru Sri Sankaracharya of</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Our Cultural Crisis</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0061</page>
+				<allauthors>
+					<author>Kanchi Kamakoti Pith, H. H. Sri Jayendra Saraswati of</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Abhaya</title>
+				<feature></feature>
+				<series></series>
+				<page>0062-0063</page>
+				<allauthors>
+					<author>Gandhi, Mahatma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dazzling Desires</title>
+				<feature></feature>
+				<series></series>
+				<page>0064-0064</page>
+				<allauthors>
+					<author>Rajagopolachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Road Back to National Health</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0073</page>
+				<allauthors>
+					<author>Santhanam, Sri K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Unity in Diversity</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0077</page>
+				<allauthors>
+					<author>Robinson, Rev. C. J. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Independence : Reflections and Recollections</title>
+				<feature></feature>
+				<series></series>
+				<page>0078-0085</page>
+				<allauthors>
+					<author>Prakasa, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Left or Right?</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0095</page>
+				<allauthors>
+					<author>Mehta, Sri G. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Unity of Religions</title>
+				<feature></feature>
+				<series></series>
+				<page>0097-0100</page>
+				<allauthors>
+					<author>Ramdas, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="01">Hinduism</title>
+				<feature></feature>
+				<series>Hinduism</series>
+				<page>0101-0106</page>
+				<allauthors>
+					<author>Ranganathananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The esoteric meaning of the ten Avatars</title>
+				<feature></feature>
+				<series></series>
+				<page>0108-0111</page>
+				<allauthors>
+					<author>Chidananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Quest for God</title>
+				<feature></feature>
+				<series></series>
+				<page>0113-0116</page>
+				<allauthors>
+					<author>Radhakrishnan, Dr. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Religion in the Nuclear Age</title>
+				<feature></feature>
+				<series></series>
+				<page>0117-0123</page>
+				<allauthors>
+					<author>Singh, Dr. Karan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhakti is the essence of music</title>
+				<feature></feature>
+				<series></series>
+				<page>0124-0133</page>
+				<allauthors>
+					<author>Subbulakshmi, Sangita Kalanidhi Smt. M. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Draupadi &#8212; Satyabhama Samvada</title>
+				<feature></feature>
+				<series></series>
+				<page>0135-0139</page>
+				<allauthors>
+					<author>Joshi, Dr. (Kum.) Shalini</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Guruvayeer Ekadasi</title>
+				<feature></feature>
+				<series></series>
+				<page>0141-0146</page>
+				<allauthors>
+					<author>Namboodiri, Sri Anjam Madhavan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">An episode from the life of Ramanujacharya</title>
+				<feature></feature>
+				<series></series>
+				<page>0147-0150</page>
+				<allauthors>
+					<author>Chattopadhyaya, Sri Jagannath</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Is there a basis for re-incarnation ?</title>
+				<feature></feature>
+				<series></series>
+				<page>0151-0154</page>
+				<allauthors>
+					<author>Iyer, Sri N. Harihara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Asceticism in ancient India</title>
+				<feature></feature>
+				<series></series>
+				<page>0155-0159</page>
+				<allauthors>
+					<author>Bhagat, Dr. M. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Builders of modern India (in pictures) &#8212; Artist : Sri V. N. O'kay</title>
+				<feature></feature>
+				<series></series>
+				<page>0169-0185</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">India's individuality and intentions</title>
+				<feature></feature>
+				<series></series>
+				<page>0186-0192</page>
+				<allauthors>
+					<author>Sharma, Prof. S. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The meaning and Mystery of death</title>
+				<feature></feature>
+				<series></series>
+				<page>0193-0200</page>
+				<allauthors>
+					<author>Tandon, Dr. J. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Astrology, Freewill and Destiny</title>
+				<feature></feature>
+				<series></series>
+				<page>0201-0205</page>
+				<allauthors>
+					<author>Rao, Sri B. Suryanarayana</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Man on the Moon</title>
+				<feature></feature>
+				<series></series>
+				<page>0207-0209</page>
+				<allauthors>
+					<author>Froehlich, Mr. Walter</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Woman, Marriage and Home</title>
+				<feature></feature>
+				<series></series>
+				<page>0210-0213</page>
+				<allauthors>
+					<author>Rao, Dr. P. Nagaraja</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Woman &#8212; her aesthetic life in ancient India</title>
+				<feature></feature>
+				<series></series>
+				<page>0215-0223</page>
+				<allauthors>
+					<author>Mohan, Sri Man</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Hebrew Messiah</title>
+				<feature></feature>
+				<series></series>
+				<page>0225-0229</page>
+				<allauthors>
+					<author>Sundaram, Sri R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ek Bharati &#8212; Common script for all Indian languages</title>
+				<feature></feature>
+				<series></series>
+				<page>0231-0239</page>
+				<allauthors>
+					<author>Lohiya, Sri R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">India's friends abroad : Edmund Burke</title>
+				<feature></feature>
+				<series></series>
+				<page>0241-0247</page>
+				<allauthors>
+					<author>Sreenivasan, Sri V. T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. Fernando Tola</title>
+				<feature></feature>
+				<series></series>
+				<page>0249-0251</page>
+				<allauthors>
+					<author>Mathur, Sri J.M.L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri &#8212; La &#8212; Sri Arumuga Navalar of Ceylon</title>
+				<feature></feature>
+				<series></series>
+				<page>0253-0261</page>
+				<allauthors>
+					<author>Pillai, Sri M. S. Sitampara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Indians in Guyana</title>
+				<feature></feature>
+				<series></series>
+				<page>0263-0265</page>
+				<allauthors>
+					<author>Kissoon, Sri Ramesh</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swati Tirunal</title>
+				<feature></feature>
+				<series></series>
+				<page>0268-0269</page>
+				<allauthors>
+					<author>Krishnamurthy, Sri Mathur</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Life of a Diplomat</title>
+				<feature></feature>
+				<series></series>
+				<page>0270-0275</page>
+				<allauthors>
+					<author>Menon, Sri K. P. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Role of law in preserving unity and moral values</title>
+				<feature></feature>
+				<series></series>
+				<page>0277-0286</page>
+				<allauthors>
+					<author>Tekchand, Justice</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">India's Food Problem</title>
+				<feature></feature>
+				<series></series>
+				<page>0291-0298</page>
+				<allauthors>
+					<author>Dantwala, Prof. M. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Suchindram</title>
+				<feature></feature>
+				<series>Garland of Temple Stories</series>
+				<page>0299-0304</page>
+				<allauthors>
+					<author>Padmanabhan, Sri S.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" date="24" month="08" year="1969" cover="Sun Flower">
+			<entry>
+				<title num="">Prayer to Krishna</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="447">Warnings of History: The Rise and Fall of Nations</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0017</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sadhana Panchakam</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0019</page>
+				<allauthors>
+					<author>Bhagavatpada, Sankara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Satyakama &#8212; an Upanishad Story</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sri Raghavendra Tirtha</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">India's gift to the world</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0025</page>
+				<allauthors>
+					<author>Vivekananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bharat, our Punyabhoomi</title>
+				<feature></feature>
+				<series></series>
+				<page>0026-0029</page>
+				<allauthors>
+					<author>Baba, Sri Satya Sai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">Hinduism</title>
+				<feature></feature>
+				<series>Hinduism</series>
+				<page>0030-0034</page>
+				<allauthors>
+					<author>Rangananthananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Russion Savant and Spirituality</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0036</page>
+				<allauthors>
+					<author>Diwakar, Dr. R. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Socialism of My Conception</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0044</page>
+				<allauthors>
+					<author>Gandhi, Sri M. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The President of India : His Powers</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0049</page>
+				<allauthors>
+					<author>Rao, Sri K. Subba</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Our National Flag, Crest and Anthem</title>
+				<feature></feature>
+				<series></series>
+				<page>0050-0053</page>
+				<allauthors>
+					<author>Rao, Sri G. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Duty of the Scholar</title>
+				<feature></feature>
+				<series>Politics and the Intelligentsia</series>
+				<page>0054-0056</page>
+				<allauthors>
+					<author>Kennedy, John F.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="22">Rajaji's Jail Diary (1921-22)</title>
+				<feature></feature>
+				<series>Rajaji's Jail Diary</series>
+				<page>0057-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="17">Gunakar</title>
+				<feature></feature>
+				<series>Stories of King Vikramaditya</series>
+				<page>0060-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Cultural Trends &amp; Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0065</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Dear Registrar Sivaram</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0069</page>
+				<allauthors>
+					<author>Dastur, Sri H. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0075</page>
+				<allauthors /> 
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0076-0079</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="03" date="07" month="09" year="1969" cover="Lord Ganapati">
+			<entry>
+				<title num="">Prayer to Lord Ganapati</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="448">August 1969, a Month of Fulfilment and Promise</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0016</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ekavimshati Patra Puja for Ganapati</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0020</page>
+				<allauthors>
+					<author>Krishnamurthy, Sri Mangipudi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Siddhi Vinayaka (Picture)</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0022</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Shodasa Ganapatis</title>
+				<feature>Pictorial Feature</feature>
+				<series></series>
+				<page>0023-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Manifestation of Vinayaka</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0034</page>
+				<allauthors>
+					<author>Kanchi, H. H. Jagadguru Sankaracharya of</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Popularity of Ganapati</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0042</page>
+				<allauthors>
+					<author>Tikekar, Sri S. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vallabha Vinayaka (Picture)</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0043</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kunti's Eulogy</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Disciplined Conscience</title>
+				<feature></feature>
+				<series></series>
+				<page>0046-0046</page>
+				<allauthors>
+					<author>Gandhi, Mahatma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Poet Subramania Bharati</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0056</page>
+				<allauthors>
+					<author>Subbarayan, Dr. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. S. Radhakrishnan</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0062</page>
+				<allauthors>
+					<author>Rao, Dr. P. Nagaraja</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Politics &amp; the Intelligentsia</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0069</page>
+				<allauthors>
+					<author>Ramani, Dr. Radhakrishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rashtrapati Giri (B.J. Profile)</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0075;0088-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="23">Rajaji's Jail Diary (1921-22)</title>
+				<feature></feature>
+				<series>Rajaji's Jail Diary</series>
+				<page>0076-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="18">Hardatta's Problem</title>
+				<feature></feature>
+				<series>Stories of King Vikramaditya</series>
+				<page>0078-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Cultural Trends &amp; Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0082-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0093</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="04" date="21" month="09" year="1969" cover="The Rt. Hon. V. S. Srinivasa Sastri">
+			<entry>
+				<title num="">Prayer of Dedication</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="449">The Rt. Hon. V. S. Srinivasa Sastri</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0017</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nirvana Shatka</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0019</page>
+				<allauthors>
+					<author>Sankaracharya, Adi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Krishna and Religion</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0021</page>
+				<allauthors>
+					<author>Maharaj, H. H. Tridandiswami Srimad Bhakti Vilas Tirth Goswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">What Sri Rama Stands for Today: Peak of Moral Purity and Ethical Grandeur</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0024</page>
+				<allauthors>
+					<author>Sastri, Sri V. S. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sastri: Gokhale's Chosen Successor</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0032</page>
+				<allauthors>
+					<author>Andrews, Deenabandhu C. F.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sastri: Gokhale's Greatest Disciple</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0038</page>
+				<allauthors>
+					<author>Kunzru, Pandit Hridaynath</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Rt. Hon. V. S. Srinivasa Sastri: My Master</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0044</page>
+				<allauthors>
+					<author>Rao, Sri P. Kodanada</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sastri: The Elite Teacher</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0047</page>
+				<allauthors>
+					<author>Rao, Dr. P. Nagaraja</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sastri: An Interpreter of Indian Thought</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0053</page>
+				<allauthors>
+					<author>Ranganathan, Sri A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">My ``Companion and Teacher" &#8212; Facsimile &#8212; Rt.</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0056</page>
+				<allauthors>
+					<author>Sastri, Hon, V. S. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chronological Table of Events in the Life of the Rt. Hon. V. S. Srinivasa Sastri</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Vinoba: A Rare Combination of Yoga, Sanyasa, Karma, Bhakti and Gnyana</title>
+				<feature></feature>
+				<series></series>
+				<page>0060-0064</page>
+				<allauthors>
+					<author>Nair, Sri K. Krishnan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Politics and the Intelligentsia</title>
+				<feature></feature>
+				<series>Politics and the Intelligentsia</series>
+				<page>0065-0066</page>
+				<allauthors>
+					<author>Seshadri, Sri G. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Population and Economic Growth</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0068</page>
+				<allauthors>
+					<author>Clerk, Prof. Colin</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="24">Rajaji's Jail Diary (1921-22)</title>
+				<feature></feature>
+				<series>Rajaji's Jail Diary</series>
+				<page>0069-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Questions &amp; Answers</title>
+				<feature></feature>
+				<series></series>
+				<page>0072-0073</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Back Ache: Causes and Cure</title>
+				<feature></feature>
+				<series></series>
+				<page>0074-0075</page>
+				<allauthors>
+					<author>Hans, Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="19">Laughter at Death</title>
+				<feature></feature>
+				<series>Stories King Vikramaditya</series>
+				<page>0076-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Rao Saheb Patwardhan: A Dedicated Soul</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0079</page>
+				<allauthors>
+					<author>Goray, Sri N. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Prof. Humayun Kabir &#8212; In Memoriam</title>
+				<feature></feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors>
+					<author>Rao, Sri P. Kodanda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Cultural Trends &amp; Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0082</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0086</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0090-0094</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="05" date="05" month="10" year="1969" cover="Mahatma Gandhi">
+			<entry>
+				<title num="">Prayer &#8212; Vaishnava Janato</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="450">Gandhiji: Spirituality in Action</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0016</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Communion with our Saint-Father</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0017</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section I: The Mahatma in the Making &#8212; M. K. Gandhi, Esquire, Barrister-at-law</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0021</page>
+				<allauthors>
+					<author>Upadhyaya, Sri J. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section I: The Mahatma in the Making &#8212; The Historic Trial for Sedition</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0027</page>
+				<allauthors>
+					<author>Shelat, Justice Sri J. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section I: The Mahatma in the Making &#8212;  Gandhiji's statement at the trial at Ahmedabad, 1922</title>
+				<feature></feature>
+				<series></series>
+				<page>0027-0030</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="1,2,3">Section I: The Mahatma in the Making &#8212; Impugned Articles of Gandhiji</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Section II: Gandhi and his Contemporaries &#8212; Gandhi and Jagadguru Sankaracharya of Kanchi</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0039</page>
+				<allauthors>
+					<author>Mahadevan, Dr. T. M. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section II: Gandhi and his Contemporaries &#8212; Gandhi and Tagore</title>
+				<feature></feature>
+				<series></series>
+				<page>0040-0049</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Section II: Gandhi and his Contemporaries &#8212; Gandhi and Gokhale</title>
+				<feature></feature>
+				<series></series>
+				<page>0050-0053</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Section II: Gandhi and his Contemporaries &#8212; Gandhi and Tilak</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Section III: Gandhi and His Disciples &#8212; Gandhi and Vallabhbhai</title>
+				<feature></feature>
+				<series></series>
+				<page>0060-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Section III: Gandhi and His Disciples &#8212; Gandhi and Nehru</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0075</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Section III: Gandhi and His Disciples &#8212; Gandhi and Vinoba</title>
+				<feature></feature>
+				<series></series>
+				<page>0076-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Section IV: Gandhi, The man and His Message &#8212; Swarajya and Swaaraajya &#8212; Independence and Self-Mastery</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0084</page>
+				<allauthors>
+					<author>Baba, Sri Satya Sai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section IV: Gandhi, The man and His Message &#8212; Abiding elements in Gandhi's life and work</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0086</page>
+				<allauthors>
+					<author>Ranganathananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section IV: Gandhi, The man and His Message &#8212; Gandhi: the Conscience of Immortal India</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0091</page>
+				<allauthors>
+					<author>Rolland, Romain</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section IV: Gandhi, The man and His Message &#8212; Gandhi: the Prophet of the Power of Love</title>
+				<feature></feature>
+				<series></series>
+				<page>0094-0096</page>
+				<allauthors>
+					<author>Jr. Dr. Martin Luther King</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section IV: Gandhi, The man and His Message &#8212; How to fulfil Gandhi</title>
+				<feature></feature>
+				<series></series>
+				<page>0097-0097</page>
+				<allauthors>
+					<author>Khan, Khan Abdul Ghaffar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section IV: Gandhi, The man and His Message &#8212; When God tested Gandhi</title>
+				<feature></feature>
+				<series></series>
+				<page>0099-0101</page>
+				<allauthors >
+					<author>Daulatram, Sri Jairamdas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section IV: Gandhi, The man and His Message &#8212; Warm-hearted friendliness and simplicity</title>
+				<feature></feature>
+				<series></series>
+				<page>0102-0103</page>
+				<allauthors>
+					<author>Mountbatten, Countess Edwina</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section IV: Gandhi, The man and His Message &#8212; Gandhi-Irwin Pact: Two unforgettable conversations</title>
+				<feature></feature>
+				<series></series>
+				<page>0104-0106</page>
+				<allauthors>
+					<author>Halifax, Lord</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section IV: Gandhi, The man and His Message &#8212; Gandhi meets the King Emperor</title>
+				<feature></feature>
+				<series></series>
+				<page>0107-0109</page>
+				<allauthors>
+					<author>Templewood, Viscount</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section V: Gandhi: General &#8212; Bapu's Daily Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0110-0112</page>
+				<allauthors>
+					<author>Nehru, Jawaharlal</author>
+					<author>Mirabehn</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section V: Gandhi: General &#8212; Small things Gandhi taught</title>
+				<feature></feature>
+				<series></series>
+				<page>0113-0113</page>
+				<allauthors>
+					<author>Mashruwala, Sri Kishorelal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Section V: Gandhi: General &#8212; Mahatma of Love, Life and Laughter</title>
+				<feature></feature>
+				<series></series>
+				<page>0115-0117</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Anecdotes</title>
+				<feature></feature>
+				<series></series>
+				<page>0118-0120</page>
+				<allauthors>
+					<author>Sivaramakrishnan, Sri N.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" date="19" month="10" year="1969" cover="Durga">
+			<entry>
+				<title num="">Prayer to Devi</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="451">Uncrowned Majesty of Indian Womanhood</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0015</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kasturba Shatabdi</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0017</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavani-Ashtakam</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0019</page>
+				<allauthors>
+					<author>Bhagavatpada, Sri Sankara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">God is One</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0022</page>
+				<allauthors>
+					<author>Gandhi, Mahatma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Durga Puja</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0026</page>
+				<allauthors>
+					<author>Nivedita, Sister</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Durga Worship in Bengal</title>
+				<feature></feature>
+				<series></series>
+				<page>0027-0030</page>
+				<allauthors>
+					<author>Nair, Sri P. Thankappan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dusserah in Mysore</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0033</page>
+				<allauthors>
+					<author>Kitta, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Durga</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0038</page>
+				<allauthors>
+					<author>Majumdar, Dr. A. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dasha Jaganmaatas (with pictorial feature)</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0051</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">India's Glorious Women</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0056</page>
+				<allauthors>
+					<author>Deshpande, Smt. Nirmala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">My Homage to Kasturba</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0058</page>
+				<allauthors>
+					<author>Prasad, Dr. Rajendra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ba's Place in Bapu's Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0064</page>
+				<allauthors>
+					<author>Malkani, Prof. N. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ba and Bapu</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0067</page>
+				<allauthors>
+					<author>Nayar, Dr. Sushila</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ba: Mother and Wife</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0069</page>
+				<allauthors>
+					<author>Aryanayakam, Smt. Ashadevi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ba: Queen of the Kitchen</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0072</page>
+				<allauthors>
+					<author>M.P. Sri G. Ramachandran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ba's Bangles</title>
+				<feature></feature>
+				<series></series>
+				<page>0074-0074</page>
+				<allauthors>
+					<author>Narayan, Smt. Prabhavati Jayaprakash</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sati Kasturba</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0077</page>
+				<allauthors>
+					<author>Prabhu, Sri R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Going Beyond Gandhi</title>
+				<feature></feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors>
+					<author>Mahadevan, Sri T. K.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="07" date="02" month="11" year="1969" cover="Ashta Lakshmi">
+			<entry>
+				<title num="">Prayer to Lakshmi</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0021-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="452">Mother-land: One and indivisible</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0025-0027</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ashta Lakshmi</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0029</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Lard's will &#8212; (Translated in Sanskrit by Prof. J. H. Dave)</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0031</page>
+				<allauthors>
+					<author>Mehta, Shri Narasimha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Prasnottara Ratna Malika (Garland of Questions and Answers)</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0039</page>
+				<allauthors>
+					<author>Bhagavatpada, Sankara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">What is Truth?</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0046</page>
+				<allauthors>
+					<author>Sri Satya Sai Baba</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Viveka : Virture of Virtues</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0047</page>
+				<allauthors>
+					<author>Sharadapeetha, H. H. Sankaracharya of Dwaraka</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Jnana Deepam</title>
+				<feature></feature>
+				<series></series>
+				<page>0049-0052</page>
+				<allauthors>
+					<author>Kamakotipeetha, H. H. Jayendra Saraswati of Kanchi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The one reality</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0054</page>
+				<allauthors>
+					<author>Swamigal, Sri-La-Sri Panrimalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Divya Prabandham : New lamps for Old</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0058</page>
+				<allauthors>
+					<author>Lyengar, Sri D. Ramaswamy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Yadavabhyudayam</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0064</page>
+				<allauthors>
+					<author>Desikan, Sri R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Poet &#8212; Saints of India</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0081</page>
+				<allauthors>
+					<author>Feature, Pictorial</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The True Religious Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0084</page>
+				<allauthors>
+					<author>Radhakrishnan, Dr. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Science and Humanities</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0090</page>
+				<allauthors>
+					<author>Girl, Sri V. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Unification of Cultures</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0096</page>
+				<allauthors>
+					<author>Rajagopolachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Thank God, you are born an Indian</title>
+				<feature></feature>
+				<series></series>
+				<page>0097-0103</page>
+				<allauthors>
+					<author>Sharma, Sri S. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rukmini and Satyabhama</title>
+				<feature></feature>
+				<series></series>
+				<page>0105-0111</page>
+				<allauthors>
+					<author>Manjeshwar, Saguna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Schweitzer and Gandhi</title>
+				<feature></feature>
+				<series></series>
+				<page>0112-0121</page>
+				<allauthors>
+					<author>Kunz, Mr. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gandhian approach to the present crisis</title>
+				<feature></feature>
+				<series></series>
+				<page>0123-0128</page>
+				<allauthors>
+					<author>Santhanam, Sri K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bapuji &#8212; Some Recollections</title>
+				<feature></feature>
+				<series></series>
+				<page>0131-0139</page>
+				<allauthors>
+					<author>Sastri, Sri N. K. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Secularism</title>
+				<feature></feature>
+				<series></series>
+				<page>0141-0149</page>
+				<allauthors>
+					<author>Aiyar, Sri K. Balasubramania</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Industrialisation : Need for Rethinking</title>
+				<feature></feature>
+				<series></series>
+				<page>0151-0159</page>
+				<allauthors>
+					<author>Prakasa, Sri Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sacred rock at the feet of Mother India</title>
+				<feature></feature>
+				<series></series>
+				<page>0161-0165</page>
+				<allauthors>
+					<author>Padmanabhan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shirdi Narayana Baba</title>
+				<feature></feature>
+				<series></series>
+				<page>0167-0169</page>
+				<allauthors>
+					<author>Ramaswamy, Sri P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Destination Dust</title>
+				<feature></feature>
+				<series></series>
+				<page>0171-0176</page>
+				<allauthors>
+					<author>Dastoor, Sri K. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Education and Youth</title>
+				<feature></feature>
+				<series></series>
+				<page>0177-0180</page>
+				<allauthors>
+					<author>Saiyidain, Dr. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Medical Science in ancient India</title>
+				<feature></feature>
+				<series></series>
+				<page>0181-0187</page>
+				<allauthors>
+					<author>Mehta, Dr. P. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Life's Little Shams</title>
+				<feature></feature>
+				<series></series>
+				<page>0189-0191</page>
+				<allauthors>
+					<author>Dalal, Sri R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Music of India</title>
+				<feature></feature>
+				<series></series>
+				<page>0193-0197</page>
+				<allauthors>
+					<author>Menon, Dr. V. K. Narayana</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The humility and humanity of a great artiste</title>
+				<feature></feature>
+				<series></series>
+				<page>0199-0202</page>
+				<allauthors>
+					<author>Sreenivasan, Sri V. T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A royal composer of Music</title>
+				<feature></feature>
+				<series></series>
+				<page>0203-0205</page>
+				<allauthors>
+					<author>Urs, Sri K. K. Devaraj</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhagavata Mela Dance-Drama</title>
+				<feature></feature>
+				<series></series>
+				<page>0207-0208</page>
+				<allauthors>
+					<author>Natarajan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Yoga for Women</title>
+				<feature></feature>
+				<series></series>
+				<page>0209-0215</page>
+				<allauthors>
+					<author>Iyengar, Miss Geeta</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Woman &#8212; Her aesthetic life in ancient India : II</title>
+				<feature></feature>
+				<series></series>
+				<page>0217-0219</page>
+				<allauthors>
+					<author>Mohan, Sri Man</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">One World Government</title>
+				<feature></feature>
+				<series></series>
+				<page>0222-0225</page>
+				<allauthors>
+					<author>Mehta, Sri Rajanikant</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">World Tourism</title>
+				<feature></feature>
+				<series></series>
+				<page>0226-0232</page>
+				<allauthors>
+					<author>Taleyarkhan, Sri Homi J. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Four Wise Brothers</title>
+				<feature></feature>
+				<series></series>
+				<page>0233-0238</page>
+				<allauthors>
+					<author>Mathur, Prof. G. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Miracle of healing</title>
+				<feature></feature>
+				<series></series>
+				<page>0239-0249</page>
+				<allauthors>
+					<author>Stephen, Prof. P. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">It's for the birds</title>
+				<feature></feature>
+				<series></series>
+				<page>0250-0253</page>
+				<allauthors>
+					<author>Dhavan, Miss Neetu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="20">Absentee husband</title>
+				<feature></feature>
+				<series>Stories of King Vikramaditya</series>
+				<page>0255-0256</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="08" date="16" month="11" year="1969" cover="Badshah Khan">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="453">Badshah Khan</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0015</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Redeeming Power of Love</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0019</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Messages: From Rashtrapatiji, Vinobaji, Rajaji and Jayaprakashji</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0025</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Universal Prayer</title>
+				<feature></feature>
+				<series></series>
+				<page>0026-0029</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Garland of Religious Precepts</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sarva Dharma Samanatva</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0043</page>
+				<allauthors>
+					<author>Gandhi, Mahatma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Two Gandhis: A Dialogue on Islam</title>
+				<feature></feature>
+				<series></series>
+				<page>0044-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">My Conception of Islam</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0052</page>
+				<allauthors>
+					<author>Khan, Khan Abdul Ghaffar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Religion of Humanity</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0056</page>
+				<allauthors>
+					<author>Aurobindo, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Ways and Power of Love</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0059</page>
+				<allauthors>
+					<author>Sorokin, Pitirim A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Khan Brothers</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0061</page>
+				<allauthors>
+					<author>Gandhi, Mahatma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Great Freedom Fighter</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0063</page>
+				<allauthors>
+					<author>Nehru, Jawaharlal</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title num="">Badshah Khan</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0065</page>
+				<allauthors>
+					<author>Husain, Dr. Zakir</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Two Images</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0067</page>
+				<allauthors>
+					<author>Pyarelal, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Badshah Khan &#8212; A Servant of God</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0071</page>
+				<allauthors>
+					<author>Desai, Sri Mahadev</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ten Commandaments of Khudai Khidmatgars</title>
+				<feature></feature>
+				<series></series>
+				<page>0072-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">I Salute the Great Leader</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0075</page>
+				<allauthors>
+					<author>Kripalani, Acharya J. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Badshah Khan's Mission of Peace</title>
+				<feature></feature>
+				<series></series>
+				<page>0076-0077</page>
+				<allauthors>
+					<author>Narayan, Sri Sriman</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Relevance of Badshah Khan's Visit</title>
+				<feature></feature>
+				<series></series>
+				<page>0078-0080</page>
+				<allauthors>
+					<author>Saiyidain, Sri K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Fresh Breeze</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0083</page>
+				<allauthors>
+					<author>Diwakar, Dr. R. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Hatred and Violence is Irreligious</title>
+				<feature></feature>
+				<series></series>
+				<page>0084-0085</page>
+				<allauthors>
+					<author>Hamied, Dr. K. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Pilgrimage to Sewagram</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0094</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="09" date="30" month="11" year="1969" cover="Guru Nanak">
+			<entry>
+				<title num="">O Lord Forgive</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="454">Upanyasa Chakravarti Sri Anantarama Dikshitar</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0008-0010</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Parikshit Nirvana</title>
+				<feature></feature>
+				<series></series>
+				<page>0011-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Akhe Gita</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0015</page>
+				<allauthors>
+					<author>Dave, Sri J. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Selections from Adi Granth</title>
+				<feature></feature>
+				<series></series>
+				<page>0016-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Baramaha Tukhari</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Guru Nanak &#8212; The Prophet of Unity</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0031</page>
+				<allauthors>
+					<author>Rasajnananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Namdeo</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0035</page>
+				<allauthors>
+					<author>Behari, Dr. Banke</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Two Gandhis</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0043</page>
+				<allauthors>
+					<author>Pyarelal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Ways and Power of Love</title>
+				<feature></feature>
+				<series></series>
+				<page>0044-0044</page>
+				<allauthors>
+					<author>Sorokin, Pitirim</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">T. L. Vaswani : A Rishi of Modern India</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0051</page>
+				<allauthors>
+					<author>Vaswani, J. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vibhooti</title>
+				<feature></feature>
+				<series></series>
+				<page>0052-0053</page>
+				<allauthors>
+					<author>Ramachandran, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The True Place and Power of Women</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0057</page>
+				<allauthors>
+					<author>Baba, Sri Satya Sai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Politics and the Intelligentsia</title>
+				<feature></feature>
+				<series>Politics and the Intelligentsia</series>
+				<page>0058-0060</page>
+				<allauthors>
+					<author>Aiyer, S. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rajaji's Jail Diary</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Wisdom Through the Ages</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For Our Children : How the Ramayana Came to be written</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Cultural Trends and Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0069</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0070</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0078-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="10" date="14" month="12" year="1969" cover="Sri Chembai Vaidyanatha Bhagavatar">
+			<entry>
+				<title num="">Shine on us, O Ushas</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="455">Rajaji, the Great Sentinel</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0012-0014</page>
+				<allauthors>
+					<author>Munshi, H. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Music, the Great Integrator</title>
+				<feature></feature>
+				<series></series>
+				<page>0015-0017</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gandhiji on Rajaji</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0019</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Narada Bhakti Sutras</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">How God Came into My Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0024</page>
+				<allauthors>
+					<author>Bhagavatar, Sri Chembai Vaidyanatha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Secret of Chembai's Success</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0028</page>
+				<allauthors>
+					<author>Ramanujam, Prof. T. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chembai, the Religious-Minded</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0031</page>
+				<allauthors>
+					<author>Sambamoorthy, Prof. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Power of Music</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0037</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The True Place and Power of Woman</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0041</page>
+				<allauthors>
+					<author>Baba, Sri Satya Sai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="03">Sundaramurthi Nayanar</title>
+				<feature></feature>
+				<series>Poet-Saints</series>
+				<page>0043-0043</page>
+				<allauthors>
+					<author>Behari, Dr. Bankey</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Ways and Power of Love</title>
+				<feature></feature>
+				<series></series>
+				<page>0044-0046</page>
+				<allauthors>
+					<author>Sorokin, Pitirim A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Romesh Chunder Dutt</title>
+				<feature></feature>
+				<series></series>
+				<page>0050-0055</page>
+				<allauthors>
+					<author>Bagchee, Sri Moni</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rajaji's Jail Diary</title>
+				<feature></feature>
+				<series></series>
+				<page>0056-0058</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Weight of Conscience</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0060</page>
+				<allauthors>
+					<author>Munshi, Sri Girish</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Wisdom through the Ages</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For our Chiranjivis</title>
+				<feature></feature>
+				<series></series>
+				<page>0062-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0065</page>
+				<allauthors /> 
+			</entry>
+			<entry>
+				<title num="">Bhavan's Bangalore Home Inauguration</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0084</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0086</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0088</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="11" date="28" month="12" year="1969" cover="Happy New Year">
+			<entry>
+				<title num="">Protech Us, Rudra</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="456">Where Family is No Bond &#8212; And Sex is a Pastime</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0016</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Imitation of Christ: Of a Good Peaceable Man &#8212; Thomas a Kempis</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Teaching of Jesus</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0019</page>
+				<allauthors>
+					<author>Ranganathananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Do Just Now</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0021</page>
+				<allauthors>
+					<author>Kabir, Sant</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Preserver of Democratic Conventions</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0024</page>
+				<allauthors>
+					<author>Kripalani, Acharya J. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Secularisum is Not Exaltation of Irreligion</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0027</page>
+				<allauthors>
+					<author>Radhakrishnan, Dr. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="04">Purandaradasa</title>
+				<feature></feature>
+				<series>Poet-Saints</series>
+				<page>0029-0029</page>
+				<allauthors>
+					<author>Behari, Dr. Bankey</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="05">Politics and the Intelligentsia</title>
+				<feature></feature>
+				<series>Politics and the Intelligentsia</series>
+				<page>0030-0034</page>
+				<allauthors>
+					<author>Dongerkery, Dr. S. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">My Impressions of the Soviet Union</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0038</page>
+				<allauthors>
+					<author>Majumdar, Dr. A. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Can Old Age be Conquered?</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0045</page>
+				<allauthors>
+					<author>Mateyer, Prof. Dragomir</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Changing Ideas About Land Ownership</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0048</page>
+				<allauthors>
+					<author>Hoffman, Daniel P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Prof. Sripad Ram Sharma</title>
+				<feature></feature>
+				<series></series>
+				<page>0049-0051</page>
+				<allauthors>
+					<author>Singh, Birendra Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="27">Rajaji's Jail Diary</title>
+				<feature></feature>
+				<series>Rajaji's Jail Diary</series>
+				<page>0052-0053</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Wisdom Through the Ages: Dignity fo Man</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0055</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0056-0056</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">World's First Convocation Address</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0060</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">They Lived for Truth &#8212; 2: Raja Harischandra</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0063</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="21">The Greatest Fool</title>
+				<feature></feature>
+				<series>Stories of King Vikramaditya</series>
+				<page>0065-0066</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Cultural Trends and Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">An Appeal</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0070</page>
+				<allauthors>
+					<author>Munshi, Smt. Lilavati</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0072-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0078</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="12" date="11" month="01" year="1970" cover="Dr. D. V. Gundappa">
+			<entry>
+				<title num="">Bless Us with Prosperity: Ye Liberal Gods</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="457">Rashtrapati Releases Bhavan's Publications</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0015</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chandidas: Shyama's Bewitching Form &#8212; A Quest for Etermity</title>
+				<feature></feature>
+				<series></series>
+				<page>0016-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Jeevan Mukti</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0020</page>
+				<allauthors>
+					<author>Swamigal, Sri La Sri Pandrimalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Foundations of Indian Culture</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0024</page>
+				<allauthors>
+					<author>Tandon, Sri J. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Towards a Spiritual Society</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0029</page>
+				<allauthors>
+					<author>Ghose, Dr. Sisir Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Narayana Bhattatiri</title>
+				<feature></feature>
+				<series>Poet-Saints</series>
+				<page>0031-0031</page>
+				<allauthors>
+					<author>Behari, Dr. Bankey</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Thanksgiving for Two</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0033</page>
+				<allauthors>
+					<author>Kalidas, Vuppuluri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">My Impressions of Soviet Union</title>
+				<feature></feature>
+				<series></series>
+				<page>0034-0036</page>
+				<allauthors>
+					<author>Majumdar, Dr. A. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. D. V. Gundappa: The Man and His Mission</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0042</page>
+				<allauthors>
+					<author>Ramaswami, Sri K. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Krishnavatara</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0050</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Modern Trends in Chemotherapy of Cancer</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0055</page>
+				<allauthors>
+					<author>Sahasrabudhe, M. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="28">Rajaji's Jail Diary</title>
+				<feature></feature>
+				<series>Rajaji's Jail Diary</series>
+				<page>0056-0058</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Wisdom Through the Ages</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0060-0060</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Students Feature: Guru Bhakti</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjivis</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0066-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Release of Bhavan's New Books</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0082-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0088</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="13" date="25" month="01" year="1970" cover="Republic Day Parade">
+			<entry>
+				<title num="">Freedom from dear</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="458">Freedom and Culture</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0013-0015</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Freedom from Cant and Catchwords</title>
+				<feature></feature>
+				<series></series>
+				<page>0016-0019</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Jnaneshwar &#8212; Jnana and Vijnana</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Motherland</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0025</page>
+				<allauthors>
+					<author>Vivekananada, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="06">Mira Bai</title>
+				<feature></feature>
+				<series>Poet-Saints</series>
+				<page>0026-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">What I Believe</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0030</page>
+				<allauthors>
+					<author>Gandhi, Mahatma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">My Master</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0031</page>
+				<allauthors>
+					<author>Vallathol, Mahakavi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Matsya Avatar of our Yuga</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0032</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Homage</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0037</page>
+				<allauthors>
+					<author>Anand, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">I appeal to India</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0040</page>
+				<allauthors>
+					<author>Brockway, Lord</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gandhiji's Association with Leprosy work</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0044</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Land of Dream &#8212; Home of Bliss &#8212; Songs that Netaji loved</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Krishnavatara-2: The Challenge</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0054</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="29">Rajaji's Jail Diary (1921-22)</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0056</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Wisdom through the Ages</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0058</page>
+				<allauthors>
+					<author>Timocracy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Students Feature &#8212; Shishya Daya</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0060</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjivis</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0064</page>
+				<allauthors>
+					<author>Saraswati, Story of Nandaa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Cultural Trends and Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0069</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="22">Transmigration</title>
+				<feature></feature>
+				<series>Stories of King Vikramaditya</series>
+				<page>0071-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0073</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0084</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0088</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="14" date="08" month="02" year="1970" cover="Dr. Zakir Husain &#8212; The Lover of Flowers">
+			<entry>
+				<title num="">Prayer to Indra &amp; Varuna</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="459">Sanskrit Through the Ages (1)</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0017</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Punrandaradasa &#8212; Deem it a great boon to be born human</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0019</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sri Purandaradasa &#8212; the greatest of Haridasas</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0023</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="07">Kabir</title>
+				<feature></feature>
+				<series>Poet-Saints</series>
+				<page>0025-0027</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Day to Remember</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0033</page>
+				<allauthors>
+					<author>Ramani, Dr. Radhakrishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. Zakir Husain</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0038</page>
+				<allauthors>
+					<author>Sharma, Sri Hari Bhushan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Principles and Techniques Administration &#8212; (1)</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0044</page>
+				<allauthors>
+					<author>Kamath, Sri H. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">B.J. Profile: Sri L. K. Jha</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Krishnavatara-4: The New Shape of Dwaraka</title>
+				<feature></feature>
+				<series></series>
+				<page>0048-0051</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="30">Rajaji's Jail Diary</title>
+				<feature></feature>
+				<series>Rajaji's Jail Diary</series>
+				<page>0052-0054</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Wisdom Through the Ages: Oligarchy, the Second Corruption</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0056</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Students Feature: Yearning for Knowledge</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For our Chiranjivis: The Story of Sheela</title>
+				<feature></feature>
+				<series></series>
+				<page>0060-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0063</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Hallucination</title>
+				<feature></feature>
+				<series></series>
+				<page>0064-0066</page>
+				<allauthors>
+					<author>Parthasarathi, Sri R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0070</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0072</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="15" date="22" month="02" year="1970" cover="Bertrand Russell">
+			<entry>
+				<title num="">Prayer to Chandi</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="460">Sanskrit Through the Ages-II</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0017</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Upandesa</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0019</page>
+				<allauthors>
+					<author>Swamigal, Sri-La-Sri Panrimalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhajagovindam</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0024</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Madhwacharya &#8212; A Master of Debate and Discussion</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0027</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="08">Sri Jayadeva</title>
+				<feature></feature>
+				<series>Poet-Saints</series>
+				<page>0029-0031</page>
+				<allauthors>
+					<author>Sinha, Sri R. P. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kumari Manuben Gandhi</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0034</page>
+				<allauthors>
+					<author>Buch, Sri J. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bertrand Russell: In Memoriam</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0036</page>
+				<allauthors>
+					<author>Kulkarni, Prof. B. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Russell: New Hopes for a Changing World</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0041</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Principles and Techniques of Administration-II</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0046</page>
+				<allauthors>
+					<author>Kamath, Sri H. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Krishnavatara: 4. Mayavati</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0054</page>
+				<allauthors>
+					<author>Munshi, Dr. K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Survival or Observance of a prehistoric Custom</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0057</page>
+				<allauthors>
+					<author>Sankalia, Sri H. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Honey and Diabetes</title>
+				<feature></feature>
+				<series></series>
+				<page>0058-0063</page>
+				<allauthors>
+					<author>Kallapur, Sri S. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Wisdom Through the Ages: Democracy &#8212; The Third Corruption</title>
+				<feature></feature>
+				<series></series>
+				<page>0064-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Students Feature: Shaktatva: Competence for Knowledge</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For Our Women: A Case for Chastity</title>
+				<feature></feature>
+				<series></series>
+				<page>0072-0076</page>
+				<allauthors>
+					<author>Ammal, Smt. K. Savitri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjeevis: The True Spirit of Sacrifice</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Hallucination II:</title>
+				<feature></feature>
+				<series></series>
+				<page>0080-0084</page>
+				<allauthors>
+					<author>Parthasarathi, Sri R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0089-0092</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0093-0096</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="16" date="08" month="03" year="1970" cover="Siva : Nataraja">
+			<entry>
+				<title num="">Prayer to Lord Siva</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="461">Sanskrit Through the Ages-III</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0019</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dasavatara Stotra</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0023</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhajagovindam-2</title>
+				<feature></feature>
+				<series></series>
+				<page>0024-0028</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shiva and Parvati &#8212; Play at Dice</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sivaratri and the Enlightenment of Swami Dayanand Saraswati</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0034</page>
+				<allauthors>
+					<author>Vasudeva, Sri D. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Maha Sivaratri</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0035</page>
+				<allauthors>
+					<author>Pimputkar, Sri M. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">My Experiences of Shirdi Sai Baba-I</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0038</page>
+				<allauthors>
+					<author>Munshi, Sri Jagadish K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="5">	Through The Desert</title>
+				<feature></feature>
+				<series>Krishnavatara</series>
+				<page>0039-0043</page>
+				<allauthors>
+					<author>Munshi, Dr. K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Science and Ahimsa-I:</title>
+				<feature></feature>
+				<series></series>
+				<page>0044-0046</page>
+				<allauthors>
+					<author>Kothari, Dr. D. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Expo Oriental 70</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0053</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Betel Habit</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0058</page>
+				<allauthors>
+					<author>Saxena, Dr. (Smt.) A. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Wisdom Through the Ages &#8212; Tyranny: the Fourth Corruption</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0060</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For Our Women: Woman as Peace-maker</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0063</page>
+				<allauthors>
+					<author>Bhave, Acharya Vinoba</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Hymm to Womanhood</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0063</page>
+				<allauthors>
+					<author>Metropolis, Mr. Harry de</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjeevis: Panini's Ashtadhyayi</title>
+				<feature></feature>
+				<series></series>
+				<page>0064-0066</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Students Feature: The Tragedy of the Obstructed</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="23">Connoisseur Par Excellence</title>
+				<feature></feature>
+				<series>Stories of King Vikramaditya</series>
+				<page>0069-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0073</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Khajuraho</title>
+				<feature></feature>
+				<series></series>
+				<page>0074-0075</page>
+				<allauthors>
+					<author>Shamsuddin, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's New Kendra at Bhopal</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Cultural Trends &amp; Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0090-0091</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0092-0093</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0094-0095</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="17" date="23" month="03" year="1970" cover="Mannath Padmanabhan">
+			<entry>
+				<title num="">Vedic Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="462">Bhavan's Twenty-second Convocation</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0014-0018</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mannath Padmanabhan &#8212; Selfless Dedicated Nonagenarian</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0023</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhaja Govindam-3:</title>
+				<feature></feature>
+				<series></series>
+				<page>0024-0027</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Panchakshari Vidya</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0029</page>
+				<allauthors>
+					<author>Swamigal, Sri-La-Sri Panrimalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Holi &#8212; Indian Spring Festival</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0031</page>
+				<allauthors>
+					<author>Ray, Sri Mohit K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="06">Face to Face with Shalva</title>
+				<feature></feature>
+				<series>Krishnavatara</series>
+				<page>0032-0034</page>
+				<allauthors>
+					<author>Munshi, Dr. K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Christ and Monism</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0041</page>
+				<allauthors>
+					<author>Anthony, Sri G. F. Penn</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Science and  Ahimsa-II</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0045</page>
+				<allauthors>
+					<author>Kothari, Dr. D. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">My Experiences of Shirdi Sai Baba-II</title>
+				<feature></feature>
+				<series></series>
+				<page>0046-0052</page>
+				<allauthors>
+					<author>Munshi, Sri Jagdish K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nawab Ali Yavar Jung &#8212; Governor of Maharashtra</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0056</page>
+				<allauthors>
+					<author>(B.J. Profile)</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mannom Belongs to the Ages</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0059</page>
+				<allauthors>
+					<author>Cherian, Sri K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Women: Ascent from Maidenhood to Womanhood</title>
+				<feature></feature>
+				<series></series>
+				<page>0060-0061</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjeevis: Obeisance to Panini</title>
+				<feature></feature>
+				<series></series>
+				<page>0062-0063</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Know Your Economy</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0066</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Cultural Trends &amp; Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0069</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's Twenty-Second Convocation</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0086</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0087</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0088-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0093</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="18" date="05" month="04" year="1970" cover="Rama, Sita and Lakshmana (Bhadrachalam Temple)">
+			<entry>
+				<title num="">Prayer to Lord Rama</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="01">Adhyayana Sloka</title>
+				<feature></feature>
+				<series>Adhyayana Sloka</series>
+				<page>0014-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="463">Maryada Purushottama Sri Ramachandra</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0015-0017</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">God, Our Only Help</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0019</page>
+				<allauthors>
+					<author>Gandhi, Mahatma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Brahma's Promise Fulfilled:</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0022</page>
+				<allauthors>
+					<author>Tulsidas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Efficacy of Sri Rama Nama</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0026</page>
+				<allauthors>
+					<author>Swamigal, Sri-La-Sri Panrimalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Anger and Reconciliation</title>
+				<feature></feature>
+				<series></series>
+				<page>0027-0032</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bharata meets Rama</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0035</page>
+				<allauthors>
+					<author>Mazumdar, Shudha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Ramayana &#8212; An Epic of Sacrifice</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0038</page>
+				<allauthors>
+					<author>Sanakaranarayanan, Prof. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Hanuman, the triple stream of fulfilment</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0043</page>
+				<allauthors>
+					<author>Aiyar, Sri V. V. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rama's Abode</title>
+				<feature></feature>
+				<series></series>
+				<page>0044-0046</page>
+				<allauthors>
+					<author>Purohit, Acharya Bhaishankar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Was Vibhishana a Traitor?</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0054</page>
+				<allauthors>
+					<author>Sastri, Rt. Hon'ble V. S. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Hamsa Sandesha</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0060</page>
+				<allauthors>
+					<author>Iyengar, Dr. V. Krishnaswamy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ramayana Through the Ages</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0063</page>
+				<allauthors>
+					<author>Puthran, Dr. V. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhadrachalam</title>
+				<feature></feature>
+				<series></series>
+				<page>0064-0070</page>
+				<allauthors>
+					<author>Sri N. Ramesan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Sita-Savitris: Sita, the Patron of Fine Arts</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0074;0088-0088</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Students: Receptivity</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjeevis: Tapovana, the  Generating Centre of Our Culture</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0084</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Ramayana: A Bibliographic Study</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0088</page>
+				<allauthors>
+					<author>Paradkar, Prof. M. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Epilogue &#8212; Rama's Story</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0091</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Know Your Economy</title>
+				<feature></feature>
+				<series></series>
+				<page>0093-0093</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="19" date="19" month="04" year="1970" cover="Sri-La-Sri Pandrimalai Swamigal">
+			<entry>
+				<title num="">Let Rama Nama be for our Prosperity</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="02">The qualities of a Mahatma</title>
+				<feature></feature>
+				<series>Adhyayana Sloka</series>
+				<page>0014-0015</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="464">The true function of a University</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0016-0019</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Sage of Pandrimalai: A Siddha Purusha</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0027</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri-La-Sri Pandrimalai Swamigal: My Personal Experience</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0029</page>
+				<allauthors>
+					<author>Dave, Prof. J. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Lord Sri Krishna</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0044</page>
+				<allauthors>
+					<author>Swamigal, Sri-La-Sri Pandrimalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhajagovindam-4</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0052</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Profile of a Jain classic &#8212; Muni Nathmal's ``Wisdom of Mahavira"</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0057</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Give us, Oh! God</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0061</page>
+				<allauthors>
+					<author>Munshi, Smi Girish K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">How a Demon became a Devotee</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0068</page>
+				<allauthors>
+					<author>Mahadevan, Dr. T. M. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">With Lord Russell in London</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0072</page>
+				<allauthors>
+					<author>Roy, Sri Dilip Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjeevis: Uma's Penance</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Know Your Economy</title>
+				<feature></feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Cultural Trends and Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="24">Yagya Sarma's Son</title>
+				<feature></feature>
+				<series>Stories of King Vikramaditya</series>
+				<page>0082-0082</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's Workers' Annual Meeting</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature></feature>
+				<series></series>
+				<page>0089-0092</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0093-0096</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="20" date="03" month="05" year="1970" cover="Saints Narsi Mehta &amp; Tukaram">
+			<entry>
+				<title num="">Prayer to Lord Somanatha</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="03">Adhyayana Sloka</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0015</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="465">Linguistic States: Fate of National Unity</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0016-0019</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Indians First, Last and Always</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0023</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Hymn to Panduranga</title>
+				<feature></feature>
+				<series></series>
+				<page>0024-0025</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Hymn to Somanatha</title>
+				<feature></feature>
+				<series></series>
+				<page>0026-0027</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kriya Yoga &#8212; H. H.</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0029</page>
+				<allauthors>
+					<author>Swamigal, Sri-La-Sri Pandrimalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="09">Sant Jnaneswar</title>
+				<feature></feature>
+				<series>Poet-Saints</series>
+				<page>0030-0034</page>
+				<allauthors>
+					<author>Chidambara, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mysticism in Maharashtra and Gujarat</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0043</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Maharashtra and Gujarat</title>
+				<feature></feature>
+				<series></series>
+				<page>0044-0046</page>
+				<allauthors>
+					<author>Tikekar, Sri S. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nationalism in Maharashtra and Gujarat</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0056</page>
+				<allauthors>
+					<author>Kulkarni, Sri V. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A History of Gujarat's Historians</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0059</page>
+				<allauthors>
+					<author>Shelat, Justice Sri J. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gujarat and Its Art Heritage</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0064</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Maharashtra's Industrialisation: Retrospect and Prospect</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0070</page>
+				<allauthors>
+					<author>Sakhalkar, Dr. S. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Economy of Gujarat: Retrospect and Prospect</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0076</page>
+				<allauthors>
+					<author>Pandit, Dr. Ramu B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Maharashtra's Literature-1:</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0081</page>
+				<allauthors>
+					<author>Patwardhan, Dr. D. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gujarati Poetry</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0088</page>
+				<allauthors>
+					<author>Dalal, Prof. Suresh</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="21" date="17" month="05" year="1970" cover="Jagadguru Adi Sankaracharya">
+			<entry>
+				<title num="">Prayer to Sankara</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="04">Adhyayana Sloka</title>
+				<feature></feature>
+				<series>Adhyayana Sloka</series>
+				<page>0014-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="466">Adi Sankara : the Organiser Par Excellence</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0017-0020</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sankara : Effulgent Efflorescence of India's National Genius</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0024</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhajagovindam</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0027</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Guru</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0030</page>
+				<allauthors>
+					<author>Swamigal, H. H. Sri-La-Sri Pandrimalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Eternal Beloved</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0031</page>
+				<allauthors>
+					<author>Ramdas, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chhatrapati Shivaji</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0032</page>
+				<allauthors>
+					<author>Tribute, A Jayanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Adi Sankaracharya : His Life and Message</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0038</page>
+				<allauthors>
+					<author>Brahmachari, Sri Haridas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Jagadguru Adi Sankaracharya</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0040</page>
+				<allauthors>
+					<author>Aiyar, Dr. C. P. Ramaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sankaracharya and the Mother Goddess</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0046</page>
+				<allauthors>
+					<author>Subramanyam, Prof. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="25">V-Day for Vikramaditya</title>
+				<feature></feature>
+				<series>Stories of King Vikramaditya</series>
+				<page>0048-0049;0073-0073</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Maharashtra's Literature : II</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0055</page>
+				<allauthors>
+					<author>Patwardhan, Dr. D. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A History of Gujarat's Historians - II</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0060</page>
+				<allauthors>
+					<author>Shelat, Justice Sri J. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Brezhnev - B. J. Profile</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0063</page>
+				<allauthors>
+					<author>Candidus</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">With Lord Russell in London : II</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0069</page>
+				<allauthors>
+					<author>Roy Sri Dilip Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhailalbhai Patel</title>
+				<feature>In Memoriam</feature>
+				<series></series>
+				<page>0070-0074</page>
+				<allauthors>
+					<author>Patel, Sri H. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="01">Archimedes</title>
+				<feature></feature>
+				<series>From Candlelight to Satellite</series>
+				<page>0075-0078</page>
+				<allauthors>
+					<author>Lee, Dana</author>
+					<author>Thomas, Henry</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjeevis : Uma's Penance-2</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Wisdom Through the Ages</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Know Your Economy</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0087</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0088-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0089-0093</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0094-0096</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="22" date="31" month="05" year="1970" cover="Deenabandhu C. F. Andrews">
+			<entry>
+				<title num="">Prayer to Lord Hari</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="05">Adhyayana Sloka</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="467">This Anarchy must be stopeed</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0017-0019</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The state of the Nation : Quo Vadis?</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0023</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhagawan Buddha</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0026</page>
+				<allauthors>
+					<author>Dialogue, A Socratic</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Basaveshwara : Vachanas</title>
+				<feature></feature>
+				<series></series>
+				<page>0027-0027</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sattwic Food</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0029</page>
+				<allauthors>
+					<author>Baba, Sri Satya Sai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sita and Anasuya</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0031</page>
+				<allauthors>
+					<author>Sanjaya, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhajagovindam</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0036</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vagrant Thoughts</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0038</page>
+				<allauthors>
+					<author>Murdeshwar, Sri D. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Guru and the Lord</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0039</page>
+				<allauthors>
+					<author>Roy, Dilip Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Charles Freer Andrews &#8212; An Autobiographic Unfoldment</title>
+				<feature></feature>
+				<series></series>
+				<page>0040-0044</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Inhuman within the Human</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0046</page>
+				<allauthors>
+					<author>Ahmed, Dr. Meraj</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kapalakundala</title>
+				<feature></feature>
+				<series></series>
+				<page>0050-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Hindu Yoga rediscovered by Modern Parapsychology</title>
+				<feature></feature>
+				<series></series>
+				<page>0058-0061</page>
+				<allauthors>
+					<author>Varadachari, Sri V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="01">Archimedes</title>
+				<feature></feature>
+				<series>From Candlelight to Satellite</series>
+				<page>0062-0065</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Richard Nixon: B. J. Profile</title>
+				<feature></feature>
+				<series></series>
+				<page>0066-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Epilepsy</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0073</page>
+				<allauthors>
+					<author>Kamath, Sri H. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Wisdom through the Ages : What is Life?</title>
+				<feature></feature>
+				<series></series>
+				<page>0074-0076</page>
+				<allauthors>
+					<author>Sastri, Sri Swami Shivananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjeevis : Dialogue on the Nature of Siva</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Know Your Economy</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0084-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0089-0092</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Bookshelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0093-0096</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="23" date="14" month="06" year="1970" cover="Swatantryaveer Savarkar">
+			<entry>
+				<title num="">Prayer to Gowri</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="06">Adhyayana Sloka</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="468">Bhavan's Family Meet</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0018-0021</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swatantryaveer Savarkar: Apostle of Fearlessness</title>
+				<feature></feature>
+				<series></series>
+				<page>0024-0025</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Legend that is Savarkar</title>
+				<feature></feature>
+				<series></series>
+				<page>0027-0028</page>
+				<allauthors>
+					<author>Aiyar, Sri R. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">My Will and Testament</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0029</page>
+				<allauthors>
+					<author>Savarkar, Sri V. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhajagovindam</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0032</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">More Light on Siddhis</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0036</page>
+				<allauthors>
+					<author>Kaviraj, Dr. Gopinath</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Brahmarshi Daivarat</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0038</page>
+				<allauthors>
+					<author>Diwakar, Dr. R. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A History of Gujarat's Historians &#8212; III</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0042</page>
+				<allauthors>
+					<author>Shelat, Sri J. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mr. Harold Wilson (B. J. Profile)</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="02">Roger Bacon</title>
+				<feature></feature>
+				<series>From Candlelight to Satellite</series>
+				<page>0051-0053</page>
+				<allauthors>
+					<author>Lee, Dana</author>
+					<author>Thomas, Henry</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sidelights on Indian Princes: 1. Horses for the Governor</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0056</page>
+				<allauthors>
+					<author>Hathi, Sri Jaisukhlal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vangmaya Tapas</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0062</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjeevis</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kapalakundala &#8212; The Fatal Wedlock: English Translation of Bengali Novel</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0069</page>
+				<allauthors>
+					<author>Majumdar, Sri Amalkanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Zebunnisha</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0072</page>
+				<allauthors>
+					<author>Dalal, Sri R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Cultural Trends and Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Know Your Economy</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0084</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Books</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0094</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="24" date="28" month="06" year="1970" cover="Edward Morgan Forster">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Adhyayana Sloka-7</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="469">English in India's Life and Part of It</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0017-0020</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">India Burns, Neros Fiddle</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0024</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhajagovindam</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0026</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ayurveda and the Code of Altruistic Conduct</title>
+				<feature></feature>
+				<series></series>
+				<page>0027-0030</page>
+				<allauthors>
+					<author>Mehta, Dr. P. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Charles Dickens : A Centenary tribute</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0033</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Homage to E. M. Forster</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0037</page>
+				<allauthors>
+					<author>Sastry, Sri N. Nanjunda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Edward Morgan Forster</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0040</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Sterile World of Slogans</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0045</page>
+				<allauthors>
+					<author>Bowles, Mr. Chester</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Reminder</title>
+				<feature></feature>
+				<series></series>
+				<page>0046-0046</page>
+				<allauthors>
+					<author>Munshi, Smt. Lilavati</author>
+				</allauthors>
+			</entry>
+			<entry> 
+				<title num="">Sirimavo Bandaranaike</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0055</page>
+				<allauthors>
+					<author>Profile, B. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sidelights on Indian Princes-2: A Gift is a Gift</title>
+				<feature></feature>
+				<series></series>
+				<page>0056-0058</page>
+				<allauthors>
+					<author>Hathi, Sri Jaisukhalal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">Roger Bacon</title>
+				<feature></feature>
+				<series>From Candelight to Satellite</series>
+				<page>0059-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Wisdom through the Ages : The Superior Vocation of the Indian Artist</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0065</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For our Chiranjeevis : The Art of Debate</title>
+				<feature></feature>
+				<series></series>
+				<page>0066-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kapalakundala : the fatal Wedlock</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0074</page>
+				<allauthors>
+					<author>Majumdar, Sri Amalkanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Zebunnisha &#8212; (contd.)</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0077</page>
+				<allauthors>
+					<author>Dalal, Sri R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Cultural Trends &amp; Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature></feature>
+				<series></series>
+				<page>0082-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Books on Wealth and Welfare</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0094</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Features</title>
+				<feature></feature>
+				<series></series>
+				<page>0095-0096</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="25" date="12" month="07" year="1970" cover="The United Nations'Head-Quarters">
+			<entry>
+				<title num="">Prayer to Lord Krishna</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="08">Adhyayana Sloka</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="470">U.N.O. and One World</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0017-0020</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">U.N. Silver Jubilee : Rededication to the Temper of Peace, Harmony and Love</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0024</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Upanishad Darshana Sangraha</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0026</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhajagovindam</title>
+				<feature></feature>
+				<series></series>
+				<page>0027-0031</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Sonnet</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0032</page>
+				<allauthors>
+					<author>Metropolis, Mr. Harry de</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Charter of the United Nations</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The U.N.O. &#8212; in retrospect and prospect</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0041</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Set a Menon to Catch a Menon!</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0044</page>
+				<allauthors>
+					<author>Menon, Sri K. P. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Lessons of Apollo-13 Mission</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0052</page>
+				<allauthors>
+					<author>Jagtiani, Sri J. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mr. Edward Heath : Profile</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0058</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Leukemia</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0060</page>
+				<allauthors>
+					<author>Gupta, Dr. S. C. Sen</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="03">Nickolaus Copernicus</title>
+				<feature></feature>
+				<series>From Candlelight to Satellite</series>
+				<page>0061-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjeevis</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sidelights on Indian Princes-3 : A Patriotic Ruler</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0070</page>
+				<allauthors>
+					<author>Hathi, Sri Jaisukhlal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kapalakundala: The Fatal Wedlock</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0076</page>
+				<allauthors>
+					<author>Majumdar, Sri Amal Kanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Zebunnisha (Contd.)</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author>Dalal, Sri R. K.</author>
+				</allauthors> 
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature></feature>
+				<series></series>
+				<page>0082-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Book Shelf</title>
+				<feature></feature>
+				<series></series>
+				<page>0089-0093</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="26" date="26" month="07" year="1970" cover="Four Aphorisms of Dharma">
+			<entry>
+				<title num="">Wisdom's Eternal Lamp</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="09">Adhyayana Sloka</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="471">Lokamanya Tilak : Some glimpses of his heroic life</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0017-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">This Sexploitation must be stopped</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0026</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Veda Vyasa</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0032</page>
+				<allauthors>
+					<author>Aurobindo, Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vyasa Pournima</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0035</page>
+				<allauthors>
+					<author>Satyanarayana, Sri V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">To Vyasa : A Sonnet</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0036</page>
+				<allauthors>
+					<author>Kashyap, Sri R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhajagovindam</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0039</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swami Ramdas &#8212; A Tribute</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Common Heritage : Samskrit</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0058</page>
+				<allauthors>
+					<author>Seshachalam, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Reflection</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0060</page>
+				<allauthors>
+					<author>Verma, Sri K. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sukarno &#8212; Builder and nearwrecker of Indonesia</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="03">Nikolaus Copernicus</title>
+				<feature></feature>
+				<series>From Candlelight to Satellite</series>
+				<page>0065-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kapalakundala: The Fatal wedlock</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0073</page>
+				<allauthors>
+					<author>Majumdar, Sri Amalkanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Our Chiranjeevis : Why read the Shastras ?</title>
+				<feature></feature>
+				<series></series>
+				<page>0074-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Prisoner without Prison</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors>
+					<author>Hathi, Sri Jaisukhlal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Cultural Trends &amp; Events</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0084-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Books : Views on Education</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0095</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="017">
+		<issue inum="01" date="09" month="08" year="1970" cover="Siva Parvati">
+			<entry>
+				<title num="">Prayer for Wisdom</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0021-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="472">Our Greatest Need : Freedom that knows no fear</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0025-0000</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kulapati's Message</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Amrita Manthan</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0000</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Navagraha Stotras</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Gospet of Blessedness</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Some Thoughts on Bhakti</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0000</page>
+				<allauthors>
+					<author>Sringeri, H. H. Sri Sankaracharya of</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Hindu Dharma</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0000</page>
+				<allauthors>
+					<author>Dwarka, H. H. Sri Sankaracharya of</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Towards a Dedicated Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0072-0000</page>
+				<allauthors>
+					<author>Kanchi, H. H. Sri Jayendra Saraswati of</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Essential Features of Education</title>
+				<feature></feature>
+				<series></series>
+				<page>0076-0000</page>
+				<allauthors>
+					<author>Baba, Sri Satya Sai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Basic Tenets of Indian Culture</title>
+				<feature></feature>
+				<series></series>
+				<page>0084-0000</page>
+				<allauthors>
+					<author>Swamigal, H. H. Sri-La-Sri Pandrimalai Swamigal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Dynamics of Togetherness</title>
+				<feature></feature>
+				<series></series>
+				<page>0090-0000</page>
+				<allauthors>
+					<author>Chinmayananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ramappan : A Story</title>
+				<feature></feature>
+				<series></series>
+				<page>0098-0000</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rights and Duties</title>
+				<feature></feature>
+				<series></series>
+				<page>0103-0000</page>
+				<allauthors>
+					<author>Giri, Dr. V. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Nation's Strength</title>
+				<feature></feature>
+				<series></series>
+				<page>0106-0000</page>
+				<allauthors>
+					<author>Singh, Dr. Karan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Our Poet Saints &#8212; Divine Integrators</title>
+				<feature></feature>
+				<series></series>
+				<page>0111-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhakti in Vedic Prayers</title>
+				<feature></feature>
+				<series></series>
+				<page>0129-0000</page>
+				<allauthors>
+					<author>Bose, Dr. A. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Business and Industry in the Seventies : Task and Obligations</title>
+				<feature></feature>
+				<series></series>
+				<page>0134-0000</page>
+				<allauthors>
+					<author>Tata, Sri J. R. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Concept of Loka-Sakti</title>
+				<feature></feature>
+				<series></series>
+				<page>0144-0000</page>
+				<allauthors>
+					<author>Narayan, Sri Jayaprakash</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Yesterday, Today and Tomorrow</title>
+				<feature></feature>
+				<series></series>
+				<page>0149-0000</page>
+				<allauthors>
+					<author>Prakasa, Sri Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Living Great: H. H. Jagadguru Sri Sankaracharya of Kanchi Kamakoti Pitha;</title>
+				<feature></feature>
+				<series></series>
+				<page>0163-0000</page>
+				<allauthors>
+					<author>Mahadevan, Dr. T. M. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Living Great: H. H. Jagadguru Sri Sankaracharya of Kanchi Kamakoti Pitha; &#8212; The Mother</title>
+				<feature></feature>
+				<series></series>
+				<page>0167-0000</page>
+				<allauthors>
+					<author>Iyengar, Prof. K. R. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Living Great: H. H. Jagadguru Sri Sankaracharya of Kanchi Kamakoti Pitha; &#8212; Dr. S. Radhakrishnan</title>
+				<feature></feature>
+				<series></series>
+				<page>0173-0000</page>
+				<allauthors>
+					<author>Wadia, Prof. A. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Politics, Religion and Morality</title>
+				<feature></feature>
+				<series></series>
+				<page>0177-0000</page>
+				<allauthors>
+					<author>Santhanam, Sri K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Whither Indian Democracy ?</title>
+				<feature></feature>
+				<series></series>
+				<page>0185-0000</page>
+				<allauthors>
+					<author>Kamath, Sri H. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Is right to property fundamental ?</title>
+				<feature></feature>
+				<series></series>
+				<page>0191-0000</page>
+				<allauthors>
+					<author>Daphtary, Sri C. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">India's Defence</title>
+				<feature></feature>
+				<series></series>
+				<page>0201-0000</page>
+				<allauthors>
+					<author>Patel, H. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>%%%%%%% prathibha
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+</bhavans>
