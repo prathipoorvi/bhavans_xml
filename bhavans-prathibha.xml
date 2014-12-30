@@ -12795,9 +12795,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Ramakrishna Upanishad-2: Religious Differences</title>
+				<title num="02">Religious Differences</title>
 				<feature></feature>
-				<series></series>
+				<series>Ramakrishna Upanishad</series>
 				<page>0020-0023</page>
 				<allauthors>
 					<author>Rajagopalachari, Sri C.</author>
@@ -12965,9 +12965,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Sri Ramakrishna Upanishad: Don't approach the Serpent</title>
+				<title num="03">Don't approach the Serpent</title>
 				<feature></feature>
-				<series></series>
+				<series>Ramakrishna Upanishad</series>
 				<page>0016-0018</page>
 				<allauthors>
 					<author>Rajagopalachari, Sri C.</author>
@@ -13158,9 +13158,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Sri Ramakrishna Upanishad: 4. Purity of Mind</title>
+				<title num="04">Purity of Mind</title>
 				<feature></feature>
-				<series></series>
+				<series>Ramakrishna Upanishad</series>
 				<page>0030-0032</page>
 				<allauthors>
 					<author>Rajagopalachari, Sri C.</author>
@@ -13707,9 +13707,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Ramakrishna Upanishad-VI &#8212;A King and a Bhagavathar</title>
+				<title num="06">A King and a Bhagavathar</title>
 				<feature></feature>
-				<series></series>
+				<series>Ramakrishna Upanishad</series>
 				<page>0016-0018</page>
 				<allauthors>
 					<author>Rajagopalachari, Sri C.</author>
@@ -14152,9 +14152,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="23">Sri Chaitanya Mahaprabhu &#8212; Vishnupriya At her Father's</title>
+				<title num="23">Vishnupriya At her Father's</title>
 				<feature></feature>
-				<series></series>
+				<series>Sri Chaitanya Mahaprabhu</series>
 				<page>0073-0075</page>
 				<allauthors>
 					<author>Ghose, Dr. Sisir Kumar</author>
@@ -14203,410 +14203,2057 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
+		<issue inum="22" date="28" month="05" year="1972" cover="Swami Muktananda">
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Prayer for Intelligence</title>
+				<feature>Prayer</feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0009-0009</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Wisdom Through the Ages &#8212; Gems from Buddha</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Footprints of God &#8212; The Transcendental Bliss</title>
+				<feature></feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kulapati Vani &#8212; The Buddha An Avatar of God</title>
 				<feature></feature>
 				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
+				<page>0015-0015</page>
 				<allauthors>
-					<author></author>
+					<author>Munshi, K. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="09">The Story of the Ascetic</title>
 				<feature></feature>
-				<series></series>
-				<page>0000-0000</page>
+				<series>Ramakrishna Upanishad</series>
+				<page>0016-0019</page>
 				<allauthors>
-					<author></author>
+					<author>Rajagopalachari, Sri C.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="08">Letter to Kulapatiji</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0020-0030</page>
 				<allauthors>
-					<author></author>
+					<author>Munshi, Smt. Lilavati</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Why this Unsteadiness in the Educated?</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0031-0034</page>
 				<allauthors>
-					<author></author>
+					<author>Ramakrishnan, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Buddha the Sower &#8212; A Parable</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0035-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Impact of Buddha on Hinduism</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0041</page>
 				<allauthors>
-					<author></author>
+					<author>Diwakar, Sri R. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Thus Spake Basava</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0042-0043</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Basava's Relevance to our Times</title>
+				<feature></feature>
+				<series></series>
+				<page>0044-0047</page>
 				<allauthors>
-					<author></author>
+					<author>Gajendragadkar, Dr. P. B.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Spiritual Pursuit in Worldly Life</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0051-0055</page>
 				<allauthors>
-					<author></author>
+					<author>Muktananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Bhagavati Annapoorni</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0056-0060</page>
 				<allauthors>
-					<author></author>
+					<author>Swamigal, Sri-La-Sri Pandrimalai</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">The Role of Sages</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0061-0065</page>
 				<allauthors>
-					<author></author>
+					<author>Iyer, Sri B. R. Rajam</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Indigenous Herb Helps Prevent Heart Attack</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0066-0068</page>
 				<allauthors>
-					<author></author>
+					<author>Sirhindi, Sri Bhushan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">The Perfectionist (Short Story)</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0069-0072</page>
 				<allauthors>
-					<author></author>
+					<author>Ayer, Sri V. A. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Want to Settle in America?</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0073-0076</page>
 				<allauthors>
-					<author></author>
+					<author>Mehta, Dr. (Smt.) Snehlate</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="24">The Renunciation</title>
 				<feature></feature>
-				<series></series>
-				<page>0000-0000</page>
+				<series>Sri Chaitanya Mahaprabhu</series>
+				<page>0077-0079</page>
 				<allauthors>
-					<author></author>
+					<author>Ghose, Dr. Sisir Kumar</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Laugh with Shakespeare</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0084-0084</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0094</page>
+				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
+		<issue inum="23" date="11" month="06" year="1972" cover="Yogacharya B. K. S. Iyengar">
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Prayer for Intellectual Brilliance</title>
+				<feature>Prayer</feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0009-0009</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Wisdom Through the Ages &#8212; Gems from the Mahabharata</title>
+				<feature></feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kulapati Vani &#8212; Yoga Shows the Way to God</title>
 				<feature></feature>
 				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
+				<page>0013-0013</page>
 				<allauthors>
-					<author></author>
+					<author>Munshi, K. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="10">Speech and Silence</title>
+				<feature></feature>
+				<series>Ramakrishna Upanishad</series>
+				<page>0016-0018</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="09">Letter to Kulapatiji</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0020-0026</page>
 				<allauthors>
-					<author></author>
+					<author>Munshi, Smt. Lilavati</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Story of the Buffalo</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0029</page>
+				<allauthors>
+					<author>Sivananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Call of the Age</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0031</page>
+				<allauthors>
+					<author>Bhave, Acharya Vinoba</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Agama, the Backbone of Indian Culture</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0035</page>
+				<allauthors>
+					<author>Bhatt, Dr. S. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Education Must Enlighten Understanding and Enrich Character</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0039</page>
+				<allauthors>
+					<author>Palkhivala, Sri N. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Netra Dani Dr. M. C. Modi</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0046</page>
+				<allauthors>
+					<author>Ramaswamy, Sri K. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Cowries in Marriage Ceremonies</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0053</page>
+				<allauthors>
+					<author>Rao, Sri G. Rajarama</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Need for Yoga Education in Schools and Colleges</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0060</page>
+				<allauthors>
+					<author>Iyengar, Yogacharya B. K. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mohini Attam: Dance of the Enchantress</title>
+				<feature></feature>
+				<series></series>
+				<page>0062-0067</page>
+				<allauthors>
+					<author>Rele, Smt. Kanak</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Wheat Grass: God's Manna</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0070</page>
+				<allauthors>
+					<author>Chandravadan, Sri Babubhai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Tilak and its Significance</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0072</page>
+				<allauthors>
+					<author>Ayer, Sri V. A. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="25">The Monastery</title>
+				<feature></feature>
+				<series>Sri Chaitanya Mahaprabhu</series>
+				<page>0073-0076</page>
+				<allauthors>
+					<author>Ghose, Dr. Sisir Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Four Observers</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author>Varma, Kumari Anjali</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Laugh With La Rochefoucauld, French Epigrammatist</title>
+				<feature></feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0084-0084</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0089-0090</page>
+				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
+		<issue inum="24" date="25" month="06" year="1972" cover="Bhakta Mira">
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Prayer for Rain</title>
+				<feature>Prayer</feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0013-0013</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Wisdom Through the Ages &#8212; Gems from Vivekananda</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0014-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kulapati Vani &#8212; Beauty &#8212; Its Many faces</title>
 				<feature></feature>
 				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
+				<page>0015-0015</page>
 				<allauthors>
-					<author></author>
+					<author>Munshi, K. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="11">Oil Cup</title>
+				<feature></feature>
+				<series>Ramakrishna Upanishad</series>
+				<page>0016-0019</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Lord's Name &#8212; Bhakta Mira</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0020-0020</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Letter to Kulapatiji &#8212; 10.</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0027</page>
 				<allauthors>
-					<author></author>
+					<author>Munshi, Smt. Lilavati</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rudraksha</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0029</page>
+				<allauthors>
+					<author>Ayer, Sri V. A. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Pride and Devotion &#8212; Swami Ramdas</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0031</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Perfect Joy</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0033</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Viswanatha Satyanarayana</title>
+				<feature></feature>
+				<series></series>
+				<page>0034-0038</page>
+				<allauthors>
+					<author>Ramachandriah, Sri P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Aim of Indian Art</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0041</page>
+				<allauthors>
+					<author>Coomaraswamy, Sri Ananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Values; The Polestar of Education</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0044;0054-0054</page>
+				<allauthors>
+					<author>Blanshard, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Family Life at the Cross-roads</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0050</page>
+				<allauthors>
+					<author>Muelder, W. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Economic Theory on its Head</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0053</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Dasia &#8212; A Devotee of Lord Jagannath</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0059</page>
+				<allauthors>
+					<author>Sahu, Sri Dibakar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Folktale from Orissa &#8212; Taapoi</title>
+				<feature></feature>
+				<series></series>
+				<page>0060-0066</page>
+				<allauthors>
+					<author>Pandya, Banchhanidhi</author>
+				</allauthors>
+			</entry>
+			
+			<entry>
+				<title num="">Bhavan's Centre in London</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">New Hope for Leucoderma Patients</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0072</page>
+				<allauthors>
+					<author>Paranjape, Vaidya M. Y.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">How the Dog Got the Bad Name</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors>
+					<author>Raman, Gayatri Devi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="26">The Memorable Day</title>
+				<feature></feature>
+				<series>Sri Chaitanya Mahaprabhu</series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author>Ghose, Dr. Sisir Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Laugh With Bernard Shaw</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0087</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0095</page>
+				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
+		<issue inum="25" date="09" month="06" year="1972" cover="Tree is Wealth">
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Prayer for Internatinal Concord</title>
+				<feature>Prayer</feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0011-0011</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Wisdom Through the Ages: Gems from Kabir</title>
+				<feature></feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kulapati Vani: Trees &#8212; Our Nation's Wealth</title>
 				<feature></feature>
 				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
+				<page>0013-0013</page>
 				<allauthors>
-					<author></author>
+					<author>Munshi, K. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="12">Devi-Kavacham</title>
+				<feature></feature>
+				<series>Ramakrishna Upanishad</series>
+				<page>0014-0017</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="11">Letter to Kulapatiji</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0018-0024</page>
 				<allauthors>
-					<author></author>
+					<author>Munshi, Smt. Lilavati</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Let words pass: Let deeds answer</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0028</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Gods of our Religion</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0033</page>
+				<allauthors>
+					<author>Kanchi, Jagadguru Sri Sankaracharya of</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">How Panduranga Came to Pandharpur</title>
+				<feature></feature>
+				<series></series>
+				<page>0034-0036</page>
+				<allauthors>
+					<author>Mate, Sri M. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ekadasi, The Easy Way to Health &amp; Blessedness</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0040</page>
+				<allauthors>
+					<author>Subbarayan, Sri K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Surprise Gift</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0042</page>
+				<allauthors>
+					<author>Shailesh, Dr. H. D. Bhatt</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Voice of Truth</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0052</page>
+				<allauthors>
+					<author>Antherjanam, Smt. Lalitambika</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Jamini Roy</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0056</page>
+				<allauthors>
+					<author>Mitra, Asok</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Let us do good to all Men</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0058</page>
+				<allauthors>
+					<author>Paul, St.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Maxims of Chanakya</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0061</page>
+				<allauthors>
+					<author>Subramanian, Sri V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bharata Natya: It Trials &amp; Triumph</title>
+				<feature></feature>
+				<series></series>
+				<page>0062-0066</page>
+				<allauthors>
+					<author>Easwaran, Sri K. Kailasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Fast and Enjoy Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0069</page>
+				<allauthors>
+					<author>Nikolayev, Prof. Yuri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">March Forward</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0072</page>
+				<allauthors>
+					<author>Chatterjee, Asit Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="27">Yoga Explained</title>
+				<feature></feature>
+				<series>Sri Chaitanya Mahaprabhu</series>
+				<page>0073-0077</page>
+				<allauthors>
+					<author>Ghose, Dr. Sisir Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Laugh with G. K. Chesterton</title>
+				<feature></feature>
+				<series></series>
+				<page>0078-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0084-0084</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0093</page>
+				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
+		<issue inum="26" date="23" month="07" year="1972" cover="Sri-La-Sri Pandrimalai Swamigal">
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Prayer to Vyasa</title>
+				<feature>Prayer</feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0013-0013</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Wisdom Through the Ages-Gems from Socrates</title>
+				<feature>Prayer</feature>
 				<series></series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>0000-0000</page>
+				<page>0014-0014</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Kulapati Vani-Vyasa-First Historian of the Human Race</title>
 				<feature></feature>
 				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
+				<page>0015-0015</page>
 				<allauthors>
-					<author></author>
+					<author>Munshi, K. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="13">The Boat on the Water</title>
 				<feature></feature>
-				<series></series>
-				<page>0000-0000</page>
+				<series>Ramakrishna Upanishad</series>
+				<page>0016-0018</page>
 				<allauthors>
-					<author></author>
+					<author>Rajagopalachari, Sri C.</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Efficacy to God's Name-Sant Eknatha</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0019-0019</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="12">Letter to Kulapatiji</title>
 				<feature></feature>
-				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
+				<series></series>
+				<page>0020-0025</page>
 				<allauthors>
-					<author></author>
+					<author>Munshi, Smt. Lilavati</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Sri Mahalakshmi Vaibhavam</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0026-0031</page>
 				<allauthors>
-					<author></author>
+					<author>Swamigal, Sri-La-Sri Pandrimalai</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">When the Sultan wore the rag</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0032-0034</page>
+				<allauthors>
+					<author>Vaswani, Sri T. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Driving Forces of Civilisation</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0040</page>
+				<allauthors>
+					<author>Gill, Prof. R. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Man did not descend from the Ape</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0043</page>
+				<allauthors>
+					<author>Dix, Carol</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Maxims of Chanakya</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0046</page>
+				<allauthors>
+					<author>Subramanian, Sri V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Escape from Jealousy</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0060</page>
+				<allauthors>
+					<author>Kuttikat, Sri Varghese J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Philosopher and the Scientist</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0063</page>
+				<allauthors>
+					<author>Janardhan, Prof. P. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">How to be happy though married</title>
+				<feature></feature>
+				<series></series>
+				<page>0064-0069</page>
+				<allauthors>
+					<author>Tirtha, Swami Rama</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Energy of Mind</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0073</page>
+				<allauthors>
+					<author>Holmes, Ernest</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Clove: the Wonder Spice</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0076</page>
+				<allauthors>
+					<author>Srikrishna, Radha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="28">Nitai to Nadia</title>
+				<feature></feature>
+				<series>Sri Chaitanya Mahaprabhu</series>
+				<page>0077-0081</page>
+				<allauthors>
+					<author>Ghose, Dr. Sisir Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Laugh with Jonathan Swift</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0083</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
+				<title num="">Notes and News</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>0000-0000</page>
+				<page>0084-0087</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
+				<title num="">Without Comment</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>0000-0000</page>
+				<page>0088-0088</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
+				<title num="">Book Review</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-		</issue>
-		<issue inum="00" date="00" month="00" year="0000" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>0000-0000</page>
+				<page>0089-0092</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
+				<title num="">Photo Feature</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<page>0097-0099</page>
+				<allauthors />
 			</entry>
 		</issue>
 	</volume>
+	<volume vnum="019">
+		<issue inum="01" date="06" month="08" year="1972" cover="">
+			<entry>
+				<title num="">Prayer to Bharat Mata</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0021-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kulapati Vani &#8212; The Dawn of Freedom</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0025-0027</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Declaration of my faith</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0039</page>
+				<allauthors>
+					<author>Gandhi, Mahatma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="13">Letter to Kulapatiji</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0057</page>
+				<allauthors>
+					<author>Munshi, Smt. Lilavati</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vande Mataram</title>
+				<feature></feature>
+				<series></series>
+				<page>0058-0064</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Profiles in Patriotism</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Cow of Bhakti</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author>Sringeri, H. H. Sri Sankara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Pathways to God-Karmayoga</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0083</page>
+				<allauthors>
+					<author>Saraswati, H. H. Jayendra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Religious Experiences in India</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0093</page>
+				<allauthors>
+					<author>Diwakar, Dr. R. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">On Meditation</title>
+				<feature></feature>
+				<series></series>
+				<page>0097-0103</page>
+				<allauthors>
+					<author>Muktananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Art and Science of Worship</title>
+				<feature></feature>
+				<series></series>
+				<page>0105-0109</page>
+				<allauthors>
+					<author>Yogeshananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Challenge of Freedom</title>
+				<feature></feature>
+				<series></series>
+				<page>0110-0126</page>
+				<allauthors>
+					<author>Ranganathananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">India's Changing Image Abroad</title>
+				<feature></feature>
+				<series></series>
+				<page>0129-0136</page>
+				<allauthors>
+					<author>Menon, Sri K. P. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Makers of the Indian Constitution</title>
+				<feature></feature>
+				<series></series>
+				<page>0137-0143</page>
+				<allauthors>
+					<author>Santhanam, Sri K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Programme for our Youth</title>
+				<feature></feature>
+				<series></series>
+				<page>0145-0149</page>
+				<allauthors>
+					<author>Singh, Dr. Karan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Saraswati in Indian Iconography</title>
+				<feature></feature>
+				<series></series>
+				<page>0150-0159</page>
+				<allauthors>
+					<author>Tiwari, Sri Maruti Nandan Prasad</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan Goes to London</title>
+				<feature></feature>
+				<series></series>
+				<page>0161-0161</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">An Apologetic Angel</title>
+				<feature></feature>
+				<series></series>
+				<page>0162-0167;0192-0192</page>
+				<allauthors>
+					<author>Ramakrishnan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Project London</title>
+				<feature></feature>
+				<series></series>
+				<page>0168-0181</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Life of Philanthropy</title>
+				<feature></feature>
+				<series></series>
+				<page>0182-0183</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Quarter Century of Indian Sports</title>
+				<feature></feature>
+				<series></series>
+				<page>0185-0192</page>
+				<allauthors>
+					<author>Sarathy, Sri A. T. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Modern Indian Novelists</title>
+				<feature></feature>
+				<series></series>
+				<page>0193-0207</page>
+				<allauthors>
+					<author>Iyengar, Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Surgery in Ayurveda</title>
+				<feature></feature>
+				<series></series>
+				<page>0209-0221</page>
+				<allauthors>
+					<author>Namboodiri, Dr. M. C. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Teach him Kindly World</title>
+				<feature></feature>
+				<series></series>
+				<page>0223-0223</page>
+				<allauthors>
+					<author>Lincoln, Abraham</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Pollution! Pollution!</title>
+				<feature></feature>
+				<series></series>
+				<page>0225-0231</page>
+				<allauthors>
+					<author>Rajaram, Dr. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Indian Dancing-Our Great Moderns</title>
+				<feature></feature>
+				<series></series>
+				<page>0233-0256</page>
+				<allauthors>
+					<author>Rele, Smt. Kanak</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Yehudi Menuhin &#8212; A Citizen of the World</title>
+				<feature></feature>
+				<series></series>
+				<page>0258-0263</page>
+				<allauthors>
+					<author>Gopalaswamy, Sri. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Acupuncture A Natural Healing Art</title>
+				<feature></feature>
+				<series></series>
+				<page>0267-0273</page>
+				<allauthors>
+					<author>Wheaton, John</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Snub</title>
+				<feature></feature>
+				<series></series>
+				<page>0275-0278</page>
+				<allauthors>
+					<author>Mazmudar, Dr. M. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Yoga Treatment for Diabetes</title>
+				<feature></feature>
+				<series></series>
+				<page>0279-0282</page>
+				<allauthors>
+					<author>Saraswati, Swami Yogeswarananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A False Preacher Exposed</title>
+				<feature></feature>
+				<series></series>
+				<page>0283-0286</page>
+				<allauthors>
+					<author>Iyer, Sri. B. R. Rajam</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Lord Fed him with His Hand</title>
+				<feature></feature>
+				<series></series>
+				<page>0289-0295</page>
+				<allauthors>
+					<author>Ayer, Sri V. A. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sarpa Yagna-Pictorial Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0296-0309</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Dussala</title>
+				<feature></feature>
+				<series></series>
+				<page>0312-0319</page>
+				<allauthors>
+					<author>Antherjanam, Smt. Lalithambika</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" date="20" month="08" year="1972" cover="Child Krishna">
+			<entry>
+				<title num="">Prayer to God-Child Krishna</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kulapati Vani-Lord Krishna: Our Most Lovable God</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0015-0015</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Janmashtami</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0017</page>
+				<allauthors>
+					<author>Kanchi, H. H. Jagadguru Sri Sankaracharya of</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="14">Social Service</title>
+				<feature></feature>
+				<series>Ramakrishna Upanishad</series>
+				<page>0018-0020;0030-0030</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="14">Letter to Kulapatiji</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0030</page>
+				<allauthors>
+					<author>Munshi, Smt. Lilavati</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Onward We March</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0033</page>
+				<allauthors>
+					<author>Giri, Dr. V. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Friendship with All, Submission to None</title>
+				<feature></feature>
+				<series></series>
+				<page>0034-0035</page>
+				<allauthors>
+					<author>Gandhi, Smt. Indira</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rashtrapati Giri</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0038</page>
+				<allauthors>
+					<author>Ranga, Prof. N. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Pathway to God</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0044</page>
+				<allauthors>
+					<author>Swamiji, Sri Vishvesha Teertha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Upakarma &#8212; What is Means</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Jawans and Religion</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0053</page>
+				<allauthors>
+					<author>A.I.A., Captain T. S. Raju</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Romance of ``Freedom Radio"</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0059</page>
+				<allauthors>
+					<author>Mehta, Dr. Usha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Birth of a Moving Melody</title>
+				<feature></feature>
+				<series></series>
+				<page>0060-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Self-effacing Child of Sri Ramakrishna</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0069;0079-0079</page>
+				<allauthors>
+					<author>Aiyangar, Rao Saheb C. Ramaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="29">Neelachal Chandra</title>
+				<feature></feature>
+				<series>Sri Chaitanya Mahaprabhu</series>
+				<page>0070-0075</page>
+				<allauthors>
+					<author>Ghose, Dr. Sisir Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Onam: Kerala's Colourful Festival</title>
+				<feature></feature>
+				<series></series>
+				<page>0076-0078</page>
+				<allauthors>
+					<author>Padmanabhan, Sri S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature></feature>
+				<series></series>
+				<page>0080-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0094</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="03" date="03" month="09" year="1972" cover="Lord Ganesha">
+			<entry>
+				<title num="">Prayer to Ganesha</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Wisdom Through the Ages-Gems from Thomas A'Kempis</title>
+				<feature></feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Kulapati Vani-Ganesha-Our God Everywhere</title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0013-0013</page>
+				<allauthors>
+					<author>Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="15">Non-Duality (Advaita)</title>
+				<feature></feature>
+				<series>Ramakrishna Upanishad</series>
+				<page>0014-0016</page>
+				<allauthors>
+					<author>Rajagopalachari, Sri C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="15">Letter to Kulapatiji</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0024</page>
+				<allauthors>
+					<author>Munshi, Smt. Lilavati</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Distinctive Character of Indian Religion</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0032</page>
+				<allauthors>
+					<author>Radhakrishnan, Dr. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Love Our Basic Need</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0035</page>
+				<allauthors>
+					<author>Bhave, Acharya Vinoba</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Spinal Centres</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0038</page>
+				<allauthors>
+					<author>Swamigal, Sri-La-Sri Pandrimalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Aurobindo and the Ideals of National Education</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0045</page>
+				<allauthors>
+					<author>Bagchee, Sri Moni</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Maxims of Chanakya</title>
+				<feature></feature>
+				<series></series>
+				<page>0046-0046</page>
+				<allauthors>
+					<author>Subramanian, Sri V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Andhra Kesari T. Prakasam</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0052</page>
+				<allauthors>
+					<author>Aiyar, Sri R. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sense and Nonsense in the New Economics</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0055</page>
+				<allauthors>
+					<author>Mehta, Dr. F. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ayurveda in the Modern Age</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0064</page>
+				<allauthors>
+					<author>Murthy, Dr. K. R. Srikanta</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ganesha the God of the Masses</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0067</page>
+				<allauthors>
+					<author>Varma, Indira K. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Coconut Brahma Forgot to Break</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0071</page>
+				<allauthors>
+					<author>Ayer, Sri V.A.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="31">Trip to the South</title>
+				<feature></feature>
+				<series>Sri Chaitanya Mahaprabhu</series>
+				<page>0072-0076</page>
+				<allauthors>
+					<author>Ghose, Dr. Sisir Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Laugh with Voltaire</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Vidyasagar and the Boy</title>
+				<feature></feature>
+				<series></series>
+				<page>0078-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Without Comment</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Munshi Memorial Fund</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0082</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature></feature>
+				<series></series>
+				<page>0090-0091</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature></feature>
+				<series></series>
+				<page>0092-0095</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="04" date="00" month="00" year="0000" cover="">%%%%%%%%
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="00" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="00" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series>Kulapati's Letter on Life, Literature &amp; Culture</series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+		</issue>
 </bhavans>
